@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OoxmlDemo", "OoxmlDemo\OoxmlDemo.csproj", "{CEC29390-8C1E-4446-B31B-7019B4668969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OoxmlDemoTests", "OoxmlDemoTests\OoxmlDemoTests.csproj", "{060E1543-3EE3-4A85-B716-B9F8C827158A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEC29390-8C1E-4446-B31B-7019B4668969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC29390-8C1E-4446-B31B-7019B4668969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC29390-8C1E-4446-B31B-7019B4668969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC29390-8C1E-4446-B31B-7019B4668969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060E1543-3EE3-4A85-B716-B9F8C827158A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060E1543-3EE3-4A85-B716-B9F8C827158A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060E1543-3EE3-4A85-B716-B9F8C827158A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060E1543-3EE3-4A85-B716-B9F8C827158A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EAB6FA3-7474-4667-9635-55600F6F83EF}
+	EndGlobalSection
+EndGlobal
